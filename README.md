@@ -111,10 +111,6 @@ pip install tqdm
 - **Xử lý hiệu quả**: Hàng chục nghìn tài liệu/phút
 - **Memory optimization**: RAM tối ưu cho dữ liệu lớn
 
-## 👥 Người Tạo
-
-**Nhóm 37** - Bài tập cuối kỳ môn Big Data 2025
-
 ## 📝 Lưu Ý
 
 - Notebook này được tạo cho Kaggle environment
@@ -131,4 +127,3 @@ pip install tqdm
 
 ---
 
-**Thời gian cập nhật cuối**: April 2026
